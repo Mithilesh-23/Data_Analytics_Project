@@ -55,6 +55,17 @@ supermarket_sales/
 
 ---
 
+## 📊 Power BI Dashboard
+
+### Dashboard Overview
+
+![Power BI Dashboard](./dashboard.png)
+
+### Dashboard Analysis
+
+![Power BI Dashboard Analysis](./dashboard2.png)
+
+
 ## 📈 Dashboard Features
 
 * Monthly Sales Trend
